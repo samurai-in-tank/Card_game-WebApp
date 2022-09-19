@@ -1,0 +1,119 @@
+.playerSlot {
+    height: 160px;
+    background-color: var(--secondary1);
+    font-size: larger;
+    font-weight: bold;
+    z-index: -3;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  :root {
+    --success1: #5eb5b8;
+    --success2: #7ac2b6;
+    --alert1: #914d67;
+    --alert2: #b64c4c;
+    --alert3: #ff7f7f;
+    --room1: #9f7ea8;
+    --room2: #765480;
+    --room3: #bb75c7;
+    --primary1: #9e88a3;
+    --primary2: #a885bd;
+    --primary3: #d49ee9;
+    --secondary2: #bba4c2;
+    --secondary1: #8e7496;
+  }
+  
+  .currentTurn {background-color: #5f9ea0 !important;}
+  
+  .greaterElf {
+    background: url(/icons/greaterElf.png) no-repeat 50%;
+    background-size: contain;
+    opacity: 0.3;
+    z-index: -2;
+    background-position-y: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .lesserPeon {
+    background: url(/icons/lesserPeon.png) no-repeat 50%;
+    background-size: contain;
+    opacity: 0.3;
+    z-index: -2;
+    background-position-y: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .greaterPeon {
+    background: url(/icons/greaterPeon.png) no-repeat 50%;
+    background-size: contain;
+    opacity: 0.4;
+    z-index: -2;
+    background-position-y: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .merchant {
+    background: url(/icons/merchant.png) no-repeat 50%;
+    background-size: contain;
+    opacity: 0.3;
+    z-index: -2;
+    background-position-y: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .gg-crown {
+    display: inline-block !important;
+    bottom: 3px;
+  }
+  
+  .chatStyle {
+    overflow-y: auto;
+    height: calc(100% - 39.5px);
+    overflow-wrap: break-word;
+    padding-bottom: 20px;
+  }
+
+    .bg-success1 { background-color: var(--success1) !important;}
+    .bg-success1:hover { background-color: var(--success2) !important;}
+    .bg-primary2 { background-color: var(--primary2) !important;}
+    .bg-primary2:hover { background-color: var(--primary3) !important;}
+
+    .bg-primary1 {
+    background-color: var(--primary1) !important;
+    color: white !important;
+    }
+    .bg-primary1:hover {background-color: var(--primary2) !important;}
+    .bg-secondary1 {background-color: var(--secondary1);}
+    .bg-secondary1:hover {background-color: #9666a8;}
+    .bg-secondary2 { background-color: var(--secondary2);}
+    .bg-alert1 { background-color: var(--alert1) !important;}
+    .bg-alert1:hover { background-color: var(--alert2) !important;}
+
+    .bg-alert2 {background-color: var(--alert2) !important;}
+    .bg-alert2:hover {background-color: var(--alert3) !important;}
+
+    .bg-room1 { background-color: var(--room1) !important;}
+    .bg-room1:hover { background-color: var(--room2) !important;}
+
+    .bg-room2 {background-color: var(--room2) !important;}
+    .bg-room2:hover {background-color: var(--room3) !important;}
+    

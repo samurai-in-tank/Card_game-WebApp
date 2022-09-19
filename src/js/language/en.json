@@ -1,0 +1,57 @@
+{ 
+    "title": "End Spiel",
+    "chooseLang": "Choose language:",
+
+    "titleNickModal": "Update your profile", 
+    "setNickname": "Enter a new nickname:",
+    "save": "Save",
+    "players": "Players:",
+    "wait": "Waiting",
+    "placed": "played:",
+
+    "playing": "Playing",
+    "ready": "READY",
+    "notReady": "NOT READY",
+
+    "info": "Information",
+    "howToPlay": "How to play?",
+
+    "newRoomName": "Enter the room name:", 
+    "hide": "Private room",
+    "btnCreate": "Create",
+    "room": "rooms",
+    "create": "Create Room",
+    "join": "Join Room",
+    "roomTitle": "Room name:",
+    "connecting": "Connecting...Please Wait",
+    "noRoom": "No room found.",
+    "roomFull": "Room is full",
+
+    "usersOnline": "users online",
+    "cards": "Cards:",
+    "btnJoin": "Join",
+
+    "started": "The game has started.",
+    "finished": "finished the cards!",
+    "ended": "The game has ended due to only one player remaining!",
+
+    "winner": "FINISHED",
+    "spect": "SPECTATOR",
+    "pass": "PASS",
+    "play": "PLAY",
+
+    "yourTurn": "YOUR TURN",
+    "passed": "passed.",
+    
+    "disconnected": " disconnected",
+    "connected": " connected",
+    "write": "Write a message...",
+    "send": "Send",
+    "taxs": ["Sent:", "Received:"],
+
+    "close": "Close",
+    "wrongCard": "Please choose the right cards.",
+    "cheat": "This should not happen.",
+    "waitTurn": "Please wait for your turn.",
+    "swap": " paid his bills to "
+}

@@ -1,0 +1,104 @@
+body { background-color: var(--secondary2) !important;}
+
+.errorMSG {
+  z-index: 1000;
+  left: 50%;
+  top: 40%;
+  background-color: var(--primary2);
+  transform: translateX(-50%);
+  width: fit-content !important;
+  color: white;
+}
+
+.btn.disabled, .btn:disabled {
+  cursor: not-allowed !important;
+  opacity: 0.35 !important;
+}
+
+.cardSel {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.material-icons:hover { opacity: 0.75;}
+.selected {border: 3px solid rgb(128, 71, 194) !important;}
+
+.pointsDiv {
+  padding-left: 20px;
+  font-weight: bold;
+  height: fit-content;
+  padding-top: 10px;
+}
+#howTo { color: azure;}
+@media only screen and (max-width: 600px) {
+  .flip-card {
+    margin-left: 50px !important;
+    transform: scale(0.7) !important;
+  }
+
+  .chatStatDiv { display: none;}
+
+  .fieldCards {margin-left: -50px !important;}
+
+  .titleMedia { font-size: small;}
+
+  .nameMedia {margin-top: 1vh;}
+
+  .playerSlot {
+    background-color: var(--secondary1);
+    font-size: larger;
+    font-weight: bold;
+    z-index: -3;
+    padding: 0.2rem !important;
+    margin: 0px !important;
+  }
+
+  .fontMediaSlots { font-size: small;}
+
+  .players { font-size: smaller;}
+
+  .cards {
+    margin-left: -60px;
+    transform: scale(0.8);
+    margin-bottom: -20px;
+  }
+
+  .float {
+    display: block;
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0c9;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 102;
+  }
+
+  .my-float {margin-top: 22px;}
+
+  .chatStatDivMedia {
+    z-index: 101;
+    display: block !important;
+    position: fixed !important;
+    height: 70vh !important;
+    border-radius: 10px;
+    background-color: var(--alert3);
+    top: 0px;
+    width: 100%;
+    padding: 20px !important;
+    margin-top: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .chatDiv {display: none !important;}
+
+  .chatActive {transform: scale(1.2);}
+
+  #statistics {padding-top: 0px !important;}
+
+  .pointsDiv {
+    padding-top: 0px !important;
+    font-weight: bold;
+  }
+  .fieldMedia { height: fit-content !important;}
+}
