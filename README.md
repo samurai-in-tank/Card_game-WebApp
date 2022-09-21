@@ -24,8 +24,9 @@
 ```
 node app.js
 ```
-## Photos
-<img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-1.png">
 
 ## Gameplay
 <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-2.gif">
+
+## Photos
+<img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-1.png">
