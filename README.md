@@ -4,17 +4,17 @@
 
 ### Ruls:
 >There is no card on the table, you can play any card (one strength).
-If everyone else folds, the table is cleared and a new round begins.
-
-When the table is occupied, you must play by the following rules:
-The number (number) of cards that you put on the table should be the same.
-The strength of your cards should be higher (that is, the lower the better).
-
-When you have no cards left in your hand, you win the game.
-
-The rank 13 card is a joker card, you can play it with other cards to match the number of cards on the table. There are only two of them.
-
-The card number corresponds to its card strength (except 13).
+>If everyone else folds, the table is cleared and a new round begins.
+>
+>When the table is occupied, you must play by the following rules:
+>The number (number) of cards that you put on the table should be the same.
+>The strength of your cards should be higher (that is, the lower the better).
+>
+>When you have no cards left in your hand, you win the game.
+>
+>The rank 13 card is a joker card, you can play it with other cards to match the number of cards on the table. There are only two of >them.
+>
+>The card number corresponds to its card strength (except 13).
 
 ### Setup
 
