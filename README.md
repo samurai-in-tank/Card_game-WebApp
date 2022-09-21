@@ -28,4 +28,6 @@ node app.js
 <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-1.png">
 
 ## Gameplay
-<img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-2.mp4">
+<video controls>
+    <source src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/projects/card-game-js-2.mp4" type="video/mp4">
+</video>
