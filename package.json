@@ -1,8 +1,9 @@
 {
-  "name": "app",
+  "name": "Card-game-JS",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "author": "CamyrauBTanke",
   "scripts": {
     "start": "pm2-runtime start ecosystem.config.js --env production"
   },
