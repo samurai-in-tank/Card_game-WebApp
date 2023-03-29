@@ -1,4 +1,4 @@
-# Card-game-JS
+# Card_game
 ### Short description
 >A simple card game with a server side.
 
